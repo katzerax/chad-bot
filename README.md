@@ -1,3 +1,2 @@
 # chad-bot
-old discord bot
-runs off node.js. 
+old discord bot. it runs off node.js. 
